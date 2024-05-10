@@ -20,4 +20,4 @@
 
 #### Defined in
 
-[src/screens/OrganizationPeople/OrganizationPeople.tsx:28](https://github.com/PalisadoesFoundation/talawa-admin/blob/12d9229/src/screens/OrganizationPeople/OrganizationPeople.tsx#L28)
+[src/screens/OrganizationPeople/OrganizationPeople.tsx:25](https://github.com/vasujain275/talawa-admin/blob/b5dc326/src/screens/OrganizationPeople/OrganizationPeople.tsx#L25)
